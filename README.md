@@ -8,4 +8,8 @@
 
 <h2>お仕事で使ったツール</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,php,laravel,mysql,postman,git,github,docker,gitlab,figma&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,vue,nuxtjs,php,laravel,mysql,postman,git,github,docker,gitlab,figma&perline=7)](https://skillicons.dev)
+
+<h2>個人開発で使ったツール</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,py,swift,anaconda,flask,vue,nuxtjs,pinia,php,laravel,unity,mongodb,sqlite,postman,git,github,docker,gitlab,figma&perline=7)](https://skillicons.dev)
