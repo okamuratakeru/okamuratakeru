@@ -5,3 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=okamuratakeru&theme=onedark&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+<h2>お仕事で使ったツール</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,php,laravel,mysql,postman,git,github,docker,gitlab,figma&perline=7)](https://skillicons.dev)
